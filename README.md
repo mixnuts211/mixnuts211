@@ -1,17 +1,17 @@
-<h2 align="center">프론트엔드 개발자를 꿈꾸는 김미경입니다. 🐧</h2>
+<h2 align="center">주니어 프론트엔드 개발자 김미경입니다. 🐧</h2>
 
 <!--
 <p align="center">✔️ 사용자 모두를 위한 아름다운 웹 서비스를 제작하고 싶습니다.</p>
 -->
 <div align="center">
   <h4>Stack 📚</h4>
-  <p>Languages ⌨️</p>
+  <p>Studying Languages ⌨️</p>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
   	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
   <br><br>
-  <p>Library & Framework 💿</p>
+  <p>Studying Library & Framework 💿</p>
   	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" />
 	<img src="https://img.shields.io/badge/GreenSock-88CE02?style=flat&logo=GreenSock&logoColor=white" />
