@@ -1,20 +1,17 @@
-<h2 align="center">주니어 프론트엔드 개발자 김미경입니다. 🐧</h2>
+<h2 align="center">Hi there 🐧</h2>
 
 <!--
-<p align="center">✔️ 사용자 모두를 위한 아름다운 웹 서비스를 제작하고 싶습니다.</p>
--->
 <div align="center">
   <h4>Stack 📚</h4>
   <p>Studying Languages ⌨️</p>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
   	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> -->
   <br><br>
   <p>Studying Library & Framework 💿</p>
   	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/GreenSock-88CE02?style=flat&logo=GreenSock&logoColor=white" /> -->
+ 	<img src="https://img.shields.io/badge/GreenSock-88CE02?style=flat&logo=GreenSock&logoColor=white" />
   <br><br>
   <p>Tools 🖱</p>
   	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
@@ -32,7 +29,7 @@
 	<img src="https://img.shields.io/badge/Acrobat-EC1C24?style=flat&logo=Adobe Acrobat Reader&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </div>
-
+-->
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixnuts211&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=mixnuts211&show_icons=true">
